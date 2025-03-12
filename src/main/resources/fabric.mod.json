@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "yosbr",
+  "id": "ydosbr",
   "version": "${version}",
-  "name": "YOSBR",
+  "name": "YDOSBR",
   "license": "LGPL-3.0-only",
-  "icon": "assets/yosbr/icon.png",
+  "icon": "assets/ydosbr/icon.png",
   "environment": "*",
   "description": "Your options shall be respected.",
-  "authors": ["shedaniel"],
+  "authors": ["shedaniel", "abstrakt3"],
   "languageAdapters": {
-    "fake_yosbr": "me.shedaniel.yosbr.YourOptionsShallBeRespected"
+    "fake_yosbr": "me.abstrakt3.ydosbr.YourDefaultOptionsShallBeRespected"
   },
   "depends": {
     "fabricloader": ">=0.7.8+build.189"
